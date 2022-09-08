@@ -1,1 +1,7 @@
 git git status
+
+criado a branch dev
+
+git git status
+
+criado a branch dev
